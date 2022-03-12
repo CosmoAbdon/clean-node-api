@@ -12,11 +12,6 @@
     "@typescript-eslint/no-misused-promises": "off",
     "@typescript-eslint/no-namespace": "off",
     "import/export": "off",
-    "@typescript-eslint/camelcase": "off",
-    "no-unused-vars": "off",
-    "@typescript-eslint/no-unused-vars": [
-      "error"
-    ]
-
+    "@typescript-eslint/camelcase": "off"
   }
 }
