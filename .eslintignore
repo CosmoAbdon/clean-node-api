@@ -1,3 +1,6 @@
 node_modules
 dist
-.dccache
+coverage
+./data
+requirements
+.vscode
